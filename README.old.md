@@ -30,3 +30,6 @@ npx create-react-app .
 
 
 https://api.themoviedb.org/3/movie/550?api_key=cf1a3accdf4df5b1f509d9c76c31c8c7
+
+top rated =
+https://api.themoviedb.org/3/movie/top_rated?api_key=cf1a3accdf4df5b1f509d9c76c31c8c7
